@@ -1,0 +1,17 @@
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.Repository\bin\Debug\net8.0\LamDT-SE172525.Repository.deps.json
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.Repository\bin\Debug\net8.0\LamDT-SE172525.Repository.dll
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.Repository\bin\Debug\net8.0\LamDT-SE172525.Repository.pdb
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.Repository\bin\Debug\net8.0\LamDT-SE172525.BOs.dll
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.Repository\bin\Debug\net8.0\LamDT-SE172525.DAO.dll
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.Repository\bin\Debug\net8.0\LamDT-SE172525.DAO.pdb
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.Repository\bin\Debug\net8.0\LamDT-SE172525.BOs.pdb
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.Repository\obj\Debug\net8.0\LamDT-SE172525.Repository.csproj.AssemblyReference.cache
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.Repository\obj\Debug\net8.0\LamDT-SE172525.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.Repository\obj\Debug\net8.0\LamDT-SE172525.Repository.AssemblyInfoInputs.cache
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.Repository\obj\Debug\net8.0\LamDT-SE172525.Repository.AssemblyInfo.cs
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.Repository\obj\Debug\net8.0\LamDT-SE172525.Repository.csproj.CoreCompileInputs.cache
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.Repository\obj\Debug\net8.0\LamDT-SE.074C46F4.Up2Date
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.Repository\obj\Debug\net8.0\LamDT-SE172525.Repository.dll
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.Repository\obj\Debug\net8.0\refint\LamDT-SE172525.Repository.dll
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.Repository\obj\Debug\net8.0\LamDT-SE172525.Repository.pdb
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.Repository\obj\Debug\net8.0\ref\LamDT-SE172525.Repository.dll

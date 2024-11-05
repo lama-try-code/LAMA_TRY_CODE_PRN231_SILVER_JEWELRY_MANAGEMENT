@@ -1,0 +1,6 @@
+@LamDT_SE172525.Api_HostAddress = http://localhost:5182
+
+GET {{LamDT_SE172525.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

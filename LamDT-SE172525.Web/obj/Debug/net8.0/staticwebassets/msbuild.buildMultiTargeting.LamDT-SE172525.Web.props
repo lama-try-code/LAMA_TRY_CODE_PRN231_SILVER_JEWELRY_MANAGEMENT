@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LamDT-SE172525.Web.props" />
+</Project>

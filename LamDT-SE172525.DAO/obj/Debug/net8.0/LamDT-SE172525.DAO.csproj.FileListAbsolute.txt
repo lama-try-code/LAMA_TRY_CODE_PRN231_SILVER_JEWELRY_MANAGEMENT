@@ -1,0 +1,15 @@
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.DAO\bin\Debug\net8.0\LamDT-SE172525.DAO.deps.json
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.DAO\bin\Debug\net8.0\LamDT-SE172525.DAO.dll
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.DAO\bin\Debug\net8.0\LamDT-SE172525.DAO.pdb
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.DAO\bin\Debug\net8.0\LamDT-SE172525.BOs.dll
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.DAO\bin\Debug\net8.0\LamDT-SE172525.BOs.pdb
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.DAO\obj\Debug\net8.0\LamDT-SE172525.DAO.csproj.AssemblyReference.cache
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.DAO\obj\Debug\net8.0\LamDT-SE172525.DAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.DAO\obj\Debug\net8.0\LamDT-SE172525.DAO.AssemblyInfoInputs.cache
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.DAO\obj\Debug\net8.0\LamDT-SE172525.DAO.AssemblyInfo.cs
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.DAO\obj\Debug\net8.0\LamDT-SE172525.DAO.csproj.CoreCompileInputs.cache
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.DAO\obj\Debug\net8.0\LamDT-SE.6A09948E.Up2Date
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.DAO\obj\Debug\net8.0\LamDT-SE172525.DAO.dll
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.DAO\obj\Debug\net8.0\refint\LamDT-SE172525.DAO.dll
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.DAO\obj\Debug\net8.0\LamDT-SE172525.DAO.pdb
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.DAO\obj\Debug\net8.0\ref\LamDT-SE172525.DAO.dll

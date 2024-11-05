@@ -1,0 +1,61 @@
+﻿@page
+@model LamDT_SE172525.Web.Pages.JewelryPage.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>SilverJewelry</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.SilverJewelry.SilverJewelryName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.SilverJewelry.SilverJewelryName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.SilverJewelry.SilverJewelryDescription)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.SilverJewelry.SilverJewelryDescription)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.SilverJewelry.MetalWeight)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.SilverJewelry.MetalWeight)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.SilverJewelry.Price)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.SilverJewelry.Price)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.SilverJewelry.ProductionYear)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.SilverJewelry.ProductionYear)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.SilverJewelry.CreatedDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.SilverJewelry.CreatedDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.SilverJewelry.Category)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.SilverJewelry.Category.CategoryId)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.SilverJewelry.SilverJewelryId">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

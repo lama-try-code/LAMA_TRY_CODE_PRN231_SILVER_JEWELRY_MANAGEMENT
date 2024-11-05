@@ -1,0 +1,14 @@
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.BOs\bin\Debug\net8.0\LamDT-SE172525.BOs.deps.json
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.BOs\bin\Debug\net8.0\LamDT-SE172525.BOs.dll
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.BOs\bin\Debug\net8.0\LamDT-SE172525.BOs.pdb
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.BOs\obj\Debug\net8.0\LamDT-SE172525.BOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.BOs\obj\Debug\net8.0\LamDT-SE172525.BOs.AssemblyInfoInputs.cache
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.BOs\obj\Debug\net8.0\LamDT-SE172525.BOs.AssemblyInfo.cs
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.BOs\obj\Debug\net8.0\LamDT-SE172525.BOs.csproj.CoreCompileInputs.cache
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.BOs\obj\Debug\net8.0\LamDT-SE172525.BOs.dll
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.BOs\obj\Debug\net8.0\refint\LamDT-SE172525.BOs.dll
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.BOs\obj\Debug\net8.0\LamDT-SE172525.BOs.pdb
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.BOs\obj\Debug\net8.0\ref\LamDT-SE172525.BOs.dll
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.BOs\bin\Debug\net8.0\LamDT-SE172525.BOs.runtimeconfig.json
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.BOs\obj\Debug\net8.0\LamDT-SE172525.BOs.csproj.AssemblyReference.cache
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.BOs\obj\Debug\net8.0\LamDT-SE172525.BOs.genruntimeconfig.cache
