@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "D:\\University Learning\\CN08\\PRN231\\LamDT-SE172525\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7431E6A9-5F1B-44FF-B967-7F5EF5D85E52}|LamDT-SE172525.Web\\LamDT-SE172525.Web.csproj|d:\\university learning\\cn08\\prn231\\lamdt-se172525\\lamdt-se172525.web\\pages\\jewelrypage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7431E6A9-5F1B-44FF-B967-7F5EF5D85E52}|LamDT-SE172525.Web\\LamDT-SE172525.Web.csproj|solutionrelative:lamdt-se172525.web\\pages\\jewelrypage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7431E6A9-5F1B-44FF-B967-7F5EF5D85E52}|LamDT-SE172525.Web\\LamDT-SE172525.Web.csproj|d:\\university learning\\cn08\\prn231\\lamdt-se172525\\lamdt-se172525.web\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7431E6A9-5F1B-44FF-B967-7F5EF5D85E52}|LamDT-SE172525.Web\\LamDT-SE172525.Web.csproj|solutionrelative:lamdt-se172525.web\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7431E6A9-5F1B-44FF-B967-7F5EF5D85E52}|LamDT-SE172525.Web\\LamDT-SE172525.Web.csproj|d:\\university learning\\cn08\\prn231\\lamdt-se172525\\lamdt-se172525.web\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7431E6A9-5F1B-44FF-B967-7F5EF5D85E52}|LamDT-SE172525.Web\\LamDT-SE172525.Web.csproj|solutionrelative:lamdt-se172525.web\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7431E6A9-5F1B-44FF-B967-7F5EF5D85E52}|LamDT-SE172525.Web\\LamDT-SE172525.Web.csproj|d:\\university learning\\cn08\\prn231\\lamdt-se172525\\lamdt-se172525.web\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7431E6A9-5F1B-44FF-B967-7F5EF5D85E52}|LamDT-SE172525.Web\\LamDT-SE172525.Web.csproj|solutionrelative:lamdt-se172525.web\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7431E6A9-5F1B-44FF-B967-7F5EF5D85E52}|LamDT-SE172525.Web\\LamDT-SE172525.Web.csproj|d:\\university learning\\cn08\\prn231\\lamdt-se172525\\lamdt-se172525.web\\pages\\jewelrypage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7431E6A9-5F1B-44FF-B967-7F5EF5D85E52}|LamDT-SE172525.Web\\LamDT-SE172525.Web.csproj|solutionrelative:lamdt-se172525.web\\pages\\jewelrypage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7431E6A9-5F1B-44FF-B967-7F5EF5D85E52}|LamDT-SE172525.Web\\LamDT-SE172525.Web.csproj|d:\\university learning\\cn08\\prn231\\lamdt-se172525\\lamdt-se172525.web\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7431E6A9-5F1B-44FF-B967-7F5EF5D85E52}|LamDT-SE172525.Web\\LamDT-SE172525.Web.csproj|solutionrelative:lamdt-se172525.web\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7431E6A9-5F1B-44FF-B967-7F5EF5D85E52}|LamDT-SE172525.Web\\LamDT-SE172525.Web.csproj|d:\\university learning\\cn08\\prn231\\lamdt-se172525\\lamdt-se172525.web\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7431E6A9-5F1B-44FF-B967-7F5EF5D85E52}|LamDT-SE172525.Web\\LamDT-SE172525.Web.csproj|solutionrelative:lamdt-se172525.web\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7431E6A9-5F1B-44FF-B967-7F5EF5D85E52}|LamDT-SE172525.Web\\LamDT-SE172525.Web.csproj|d:\\university learning\\cn08\\prn231\\lamdt-se172525\\lamdt-se172525.web\\pages\\jewelrypage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7431E6A9-5F1B-44FF-B967-7F5EF5D85E52}|LamDT-SE172525.Web\\LamDT-SE172525.Web.csproj|solutionrelative:lamdt-se172525.web\\pages\\jewelrypage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7431E6A9-5F1B-44FF-B967-7F5EF5D85E52}|LamDT-SE172525.Web\\LamDT-SE172525.Web.csproj|d:\\university learning\\cn08\\prn231\\lamdt-se172525\\lamdt-se172525.web\\pages\\jewelrypage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7431E6A9-5F1B-44FF-B967-7F5EF5D85E52}|LamDT-SE172525.Web\\LamDT-SE172525.Web.csproj|solutionrelative:lamdt-se172525.web\\pages\\jewelrypage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7431E6A9-5F1B-44FF-B967-7F5EF5D85E52}|LamDT-SE172525.Web\\LamDT-SE172525.Web.csproj|d:\\university learning\\cn08\\prn231\\lamdt-se172525\\lamdt-se172525.web\\pages\\jewelrypage\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,32 +59,114 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\University Learning\\CN08\\PRN231\\LamDT-SE172525\\LamDT-SE172525.Web\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LamDT-SE172525.Web\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\University Learning\\CN08\\PRN231\\LamDT-SE172525\\LamDT-SE172525.Web\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LamDT-SE172525.Web\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T01:49:57.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "D:\\University Learning\\CN08\\PRN231\\LamDT-SE172525\\LamDT-SE172525.Web\\Pages\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "LamDT-SE172525.Web\\Pages\\Logout.cshtml.cs",
+              "ToolTip": "D:\\University Learning\\CN08\\PRN231\\LamDT-SE172525\\LamDT-SE172525.Web\\Pages\\Logout.cshtml.cs",
+              "RelativeToolTip": "LamDT-SE172525.Web\\Pages\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:49:22.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\University Learning\\CN08\\PRN231\\LamDT-SE172525\\LamDT-SE172525.Web\\Pages\\Logout.cshtml",
+              "RelativeDocumentMoniker": "LamDT-SE172525.Web\\Pages\\Logout.cshtml",
+              "ToolTip": "D:\\University Learning\\CN08\\PRN231\\LamDT-SE172525\\LamDT-SE172525.Web\\Pages\\Logout.cshtml",
+              "RelativeToolTip": "LamDT-SE172525.Web\\Pages\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T01:49:12.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\University Learning\\CN08\\PRN231\\LamDT-SE172525\\LamDT-SE172525.Web\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "LamDT-SE172525.Web\\Pages\\Login.cshtml.cs",
+              "ToolTip": "D:\\University Learning\\CN08\\PRN231\\LamDT-SE172525\\LamDT-SE172525.Web\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "LamDT-SE172525.Web\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAArwH0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:44:18.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\University Learning\\CN08\\PRN231\\LamDT-SE172525\\LamDT-SE172525.Web\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "LamDT-SE172525.Web\\Pages\\Login.cshtml",
+              "ToolTip": "D:\\University Learning\\CN08\\PRN231\\LamDT-SE172525\\LamDT-SE172525.Web\\Pages\\Login.cshtml",
+              "RelativeToolTip": "LamDT-SE172525.Web\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T01:44:17.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\University Learning\\CN08\\PRN231\\LamDT-SE172525\\LamDT-SE172525.Web\\Pages\\JewelryPage\\Details.cshtml",
+              "RelativeDocumentMoniker": "LamDT-SE172525.Web\\Pages\\JewelryPage\\Details.cshtml",
+              "ToolTip": "D:\\University Learning\\CN08\\PRN231\\LamDT-SE172525\\LamDT-SE172525.Web\\Pages\\JewelryPage\\Details.cshtml",
+              "RelativeToolTip": "LamDT-SE172525.Web\\Pages\\JewelryPage\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T01:42:42.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "D:\\University Learning\\CN08\\PRN231\\LamDT-SE172525\\LamDT-SE172525.Web\\Pages\\JewelryPage\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "LamDT-SE172525.Web\\Pages\\JewelryPage\\Index.cshtml.cs",
               "ToolTip": "D:\\University Learning\\CN08\\PRN231\\LamDT-SE172525\\LamDT-SE172525.Web\\Pages\\JewelryPage\\Index.cshtml.cs",
               "RelativeToolTip": "LamDT-SE172525.Web\\Pages\\JewelryPage\\Index.cshtml.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAADwv0QAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAADwvz8AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T01:27:26.295Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\University Learning\\CN08\\PRN231\\LamDT-SE172525\\LamDT-SE172525.Web\\Pages\\JewelryPage\\Index.cshtml",
               "RelativeDocumentMoniker": "LamDT-SE172525.Web\\Pages\\JewelryPage\\Index.cshtml",
               "ToolTip": "D:\\University Learning\\CN08\\PRN231\\LamDT-SE172525\\LamDT-SE172525.Web\\Pages\\JewelryPage\\Index.cshtml",
               "RelativeToolTip": "LamDT-SE172525.Web\\Pages\\JewelryPage\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-04T23:17:26.991Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "JewelryController.cs",
               "DocumentMoniker": "D:\\University Learning\\CN08\\PRN231\\LamDT-SE172525\\LamDT-SE172525.Api\\Controllers\\JewelryController.cs",
               "RelativeDocumentMoniker": "LamDT-SE172525.Api\\Controllers\\JewelryController.cs",
@@ -68,12 +174,11 @@
               "RelativeToolTip": "LamDT-SE172525.Api\\Controllers\\JewelryController.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAWwEAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T22:12:22.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T22:12:22.812Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\University Learning\\CN08\\PRN231\\LamDT-SE172525\\LamDT-SE172525.Web\\Pages\\JewelryPage\\Create.cshtml",
               "RelativeDocumentMoniker": "LamDT-SE172525.Web\\Pages\\JewelryPage\\Create.cshtml",
@@ -81,12 +186,11 @@
               "RelativeToolTip": "LamDT-SE172525.Web\\Pages\\JewelryPage\\Create.cshtml",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAADAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-04T23:02:36.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T23:02:36.647Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "D:\\University Learning\\CN08\\PRN231\\LamDT-SE172525\\LamDT-SE172525.Web\\Pages\\JewelryPage\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "LamDT-SE172525.Web\\Pages\\JewelryPage\\Create.cshtml.cs",
@@ -94,8 +198,7 @@
               "RelativeToolTip": "LamDT-SE172525.Web\\Pages\\JewelryPage\\Create.cshtml.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAqwDwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T23:00:26.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T23:00:26.453Z"
             }
           ]
         }

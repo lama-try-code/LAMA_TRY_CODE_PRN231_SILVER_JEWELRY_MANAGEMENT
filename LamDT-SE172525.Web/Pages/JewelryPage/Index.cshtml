@@ -2,14 +2,18 @@
 @model LamDT_SE172525.Web.Pages.JewelryPage.IndexModel
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Jewelry Home";
 }
 
 <h1>Index</h1>
-
-<p>
-    <a asp-page="Create">Create New</a>
-</p>
+@{
+    if (HttpContext.Session.GetString("Role") == "1")
+    {
+        <p>
+            <a asp-page="Create">Create New</a>
+        </p>
+    }
+}
 <form method="get" class="mb-4">
     <div class="row g-3 align-items-center">
         <div class="col-auto">
@@ -85,11 +89,16 @@
                 <td>
                     @Html.DisplayFor(modelItem => item.Category.CategoryName)
                 </td>
-                <td>
-                    <a asp-page="./Edit" asp-route-id="@item.SilverJewelryId">Edit</a> |
-                    <a asp-page="./Details" asp-route-id="@item.SilverJewelryId">Details</a> |
-                    <a asp-page="./Delete" asp-route-id="@item.SilverJewelryId">Delete</a>
-                </td>
+                @{
+                    if (HttpContext.Session.GetString("Role") == "1")
+                    {
+                        <td>
+                            <a asp-page="./Edit" asp-route-id="@item.SilverJewelryId">Edit</a> |
+                            <a asp-page="./Details" asp-route-id="@item.SilverJewelryId">Details</a> |
+                            <a asp-page="./Delete" asp-route-id="@item.SilverJewelryId">Delete</a>
+                        </td>
+                    }
+                }
             </tr>
         }
     </tbody>

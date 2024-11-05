@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LamDT-SE172525.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4bce27cb6fefcc9c402bc51101ee970692704c4c")]
 [assembly: System.Reflection.AssemblyProductAttribute("LamDT-SE172525.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LamDT-SE172525.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

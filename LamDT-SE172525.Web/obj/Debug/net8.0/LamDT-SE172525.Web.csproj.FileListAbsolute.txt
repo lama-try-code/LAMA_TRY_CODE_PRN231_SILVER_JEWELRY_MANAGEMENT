@@ -262,3 +262,4 @@ D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.Web\bin\Debug\n
 D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\University Learning\CN08\PRN231\LamDT-SE172525\LamDT-SE172525.Web\obj\Debug\net8.0\LamDT-SE172525.Web.sourcelink.json
